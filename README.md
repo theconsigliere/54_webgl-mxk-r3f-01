@@ -1,3 +1,3 @@
 ## Mxk React Glass
 
-![Screenshot](.screenshot.png)
+![Screenshot](./screenshot.png)
